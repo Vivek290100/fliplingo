@@ -1,0 +1,114 @@
+.img-lap{
+    width: 90%;
+}
+.navbar-brand{
+    padding-left: 12%;
+}
+.navbar-brand:hover{
+padding-left: 12.4%;
+transition: 300ms;
+opacity: .9;
+}
+.header-text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',;
+}
+#imggg{
+
+    width: 40px;
+    height: 40px;
+}
+@media (max-width: 767px) {
+    #imggg {
+        display: inline-block;
+    }
+}
+@media (min-width: 768px) {
+    #imggg {
+        display: none;
+    }
+}
+.text1-1{
+    font-family: Arial, Helvetica, sans-serif,Lucida Sans;
+    font-weight: 400;
+}
+.text1-2 h6{
+  font-weight: 700;
+}
+.text1-2{
+    font-family: Arial, Helvetica, sans-serif,Lucida Sans;
+}
+.text1-2 p{
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+.text2-1 h1{
+   font-weight: bolder;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' ;
+
+}
+.text2-1 h6{
+    font-family: Arial, Helvetica, sans-serif,Lucida Sans;
+    font-weight: lighter;
+    font-size: larger;
+    line-height: 170%;
+}
+.peoples img{
+    border-radius: 50%;
+}
+.peoples img,h6,p{
+    padding-top: 10px;
+}
+.peoples h6{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.peoples p{
+    font-family: sans-serif;
+    line-height: 120%;
+}
+.text3-1 h6{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text3-1 p{
+    font-family: sans-serif;
+    line-height: 150%;
+}
+.own-col{
+  width: 23%;
+  padding: 3%;
+}
+.own-col img{
+    width: 100%;
+}
+.sec-4-content h1{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' ; 
+
+}
+.sec-4-content p{
+    font-family: Arial, Helvetica, sans-serif,Lucida Sans;
+    line-height: 150%;
+    font-size: 25px;
+}
+.text4{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' ;
+    padding-top: 20px;
+    font-weight: 700;
+    
+}
+.text4-1 h6{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans' ;
+    font-size: 20px;
+
+}
+.person123 img{
+    border-radius: 50%;
+}
+
+
+#hiddenText {
+    display: none;
+}
